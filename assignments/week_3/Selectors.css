@@ -1,0 +1,20 @@
+body {
+    font-family: "Arial";
+    background-color: pink;
+}
+
+#first {
+    font-family: "Courier";
+}
+#special {
+color: red;
+}
+
+.different {
+    font-family: "Impact";
+}
+
+.green {
+    color: black;
+    background-color: green;
+}
