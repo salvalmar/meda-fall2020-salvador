@@ -1,0 +1,40 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: peachpuff;
+}
+
+footer div {
+    width: 400px;
+    height: 400px;
+    background-color:grey;
+
+}
+
+header div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+a {
+    color: purple;
+
+
+}
+
+div a {
+    color: red;
+}
+
+div p a {
+color: yellow;
+}
+
+p a {
+    color: yellow;
+}
+
+div > div > p a {
+    color: greenyellow;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color:grey;
+    margin: 0;
+}
+
+div {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
+
+#first {
+    width:100px ;
+    height: 100px;
+    background-color: orange;
+
+}
+#second {
+    height: 200px;
+    width: 200px;
+
+}
+#third {
+    width: 400px;
+    height: 400px;
+
+}
+
+.green {
+    background-color: green;
+    border:solid 10px darkgreen;
+
+}
+.red {
+    background-color: red;
+  
+}
+
+.blue {
+    background-color: blue;
+
+}
