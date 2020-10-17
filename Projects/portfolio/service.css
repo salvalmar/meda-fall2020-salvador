@@ -46,7 +46,6 @@ body {
 header {
     height: 0px;
     background-color:whitesmoke;
-    display: block;
 }
 
 main {
@@ -75,13 +74,7 @@ main {
 h1{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-top: 75px;
 }
-
-
-
-
-
 
 footer {
     height: 0px;
